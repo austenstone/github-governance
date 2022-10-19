@@ -48,4 +48,12 @@ The [Security Overview](https://docs.github.com/en/code-security/security-overvi
 
 # Configure
 
+[Enforce policies for your enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/policies/enforcing-policies-for-your-enterprise) around things like base permissions, repo creation, action usage, access tokens, and more.
+
+GitHub [safe-settings](https://github.com/github/safe-settings) makes it easy to manage policy-as-code and apply settings to repositories across an organization.
+
+The GitHub [REST API](https://docs.github.com/en/rest) and [GraphQL API](https://docs.github.com/en/graphql) provide methods to do just about everything you could imagine. 
+
+The [GitHub Marketplace] is full of [GitHub Apps](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps) to help you create automations within your organization.
+
 # Govern
